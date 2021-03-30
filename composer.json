@@ -1,0 +1,12 @@
+{
+    "name": "sellsy/dummy",
+    "description": "This package exists to claim sellsy vendor name on packagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "email": "dev@sellsy.com"
+        }
+    ],
+    "require": {}
+}
