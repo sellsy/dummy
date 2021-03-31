@@ -1,0 +1,12 @@
+{
+    "name": "@sellsy/dummies",
+    "version": "1.0.0",
+    "description": "This package exists to claim sellsy vendor name on npm registry",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sellsy/dummy.git"
+    },
+    "keywords": [],
+    "author": "<dev@sellsy.com>",
+    "license": "MIT"
+}
